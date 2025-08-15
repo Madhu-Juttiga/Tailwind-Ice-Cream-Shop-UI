@@ -29,9 +29,9 @@ const HeroSection = () => {
         {/* Image Section */}
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className=" w-90 h-140 object-cover object-center rounded"
+            className=" w-100 h-140 object-cover object-center rounded"
             alt="hero"
-            src="src/assets/r.png"
+            src="https://i.postimg.cc/4NfssjKr/r.png"
           />
         </div>
       </div>
